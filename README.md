@@ -16,4 +16,4 @@ bamazonSupervisor.js allows supervisors to view the sales and profits of each de
 
 ==== For testers =====
 
-Import database to mySQL because testing the applications.
+Import database to mySQL before testing the applications.
